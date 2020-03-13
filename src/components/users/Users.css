@@ -1,0 +1,26 @@
+.memberConec h5, p{
+    text-align: center;
+}
+.parentMem{
+    border-right: 1px solid lightgray;
+}
+.collectionImg{
+    display: flex;
+    padding-bottom: 7px;
+    padding-top: 5px;
+    border-bottom: 1px solid rgba(199, 142, 142, 0.808);
+}
+.collectionImg img{
+    border-radius: 50%;
+    width: 30%;
+    padding-left: 5px;
+    width: 19%;
+    margin-left: 38px;
+
+}
+.collectionImg h5{
+    padding: 10px;
+}
+.box-icon{
+    margin-left: 144px;
+}

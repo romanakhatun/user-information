@@ -1,0 +1,9 @@
+.logo img{
+    width: 200px;
+}
+.logo{
+    text-align: center;
+}
+.header{
+    border-bottom: 1px solid lightgray;
+}

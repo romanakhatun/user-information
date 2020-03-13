@@ -1,0 +1,23 @@
+body{
+    overflow-x: hidden;
+}
+.card img{
+    width: 50%;
+    border-radius: 50%;
+}
+
+.card{
+    border: none;
+    align-items: center;
+    background: rgb(231, 170, 170);
+    padding: 40px 30px;
+}
+.col-body{
+    text-align: center;
+}
+.btn{
+    padding: 4px 22px;
+}
+.plus-icon{
+    padding-right: 4px;
+}

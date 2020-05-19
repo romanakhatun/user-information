@@ -1,6 +1,6 @@
 # USER INFORMATION
 
-#### User information create with React and Bootstrap
+#### User information create with React, Bootstrap, Netlify 
 ### Main Featured:
       Add Friend
       Friend Total Salary
